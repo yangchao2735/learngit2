@@ -7,4 +7,5 @@ creating a new branch is quick & simple.
 =======
 creating a new branch is quick and simple.
 >>>>>>> featurel
-creating a new branch is quick AND simple
+creating a new branch is quick AND simple17:42 2018/9/21
+branch ways
