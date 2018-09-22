@@ -16,3 +16,4 @@ now checkout master
 now is on dev branch,to solve the conflict.
 >>>>>>> dev
 now solved conflict.
+for new commit.
