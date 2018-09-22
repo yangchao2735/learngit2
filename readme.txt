@@ -9,3 +9,4 @@ creating a new branch is quick and simple.
 >>>>>>> featurel
 creating a new branch is quick AND simple17:42 2018/9/21
 branch ways
+now is on dev branch,to solve the conflict.
