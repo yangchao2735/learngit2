@@ -9,3 +9,4 @@ creating a new branch is quick and simple.
 >>>>>>> featurel
 creating a new branch is quick AND simple
 creating error
+creat a new branch dev2.
