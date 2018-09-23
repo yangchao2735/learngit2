@@ -18,3 +18,4 @@ now is on dev branch,to solve the conflict.
 now solved conflict.
 for new commit.
 9.23 for a new commit.
+10:37 23/9/2018 fixed.
